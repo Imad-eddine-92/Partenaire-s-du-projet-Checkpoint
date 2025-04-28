@@ -35,12 +35,10 @@ Fonctionnalités principales :
 
 Tech Stack suggéré :
 
-  Frontend : React / Next.js + Tailwind CSS
+  Frontend : React / Next.js + Bootstrap CSS
 
   Backend : Node.js + Express
 
   Base de données : MongoDB (avec Mongoose)
-
-  Authentification : JWT / Firebase Auth
 
   Déploiement : Vercel (frontend) + Render / Railway (backend)
